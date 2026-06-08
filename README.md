@@ -60,19 +60,6 @@ This toolkit is for them and for the engineers and consultants helping them.
 
 ---
 
-## How to Use These Templates
-
-1. **Start with MtU #01** — Asset Inventory. You cannot migrate what you don't know you have.
-2. **Fill in the Cover sheet** with your facility details and classification level.
-3. **Run passive monitoring** first (Claroty, Nozomi, Dragos, or Tenable OT) before touching any device.
-4. **Conduct a manual walkdown** — passive monitoring misses air-gapped and serial-connected devices.
-5. **Cross-reference documentation** against what you found. Every gap is a finding.
-6. **Populate Risk Flags** from your inventory — these drive Phase 1 prioritisation.
-
-> ⚠️ **Important:** These templates are starting points, not finished deliverables. Every OT environment is different. Adapt to your context. If you're working on a safety-critical environment (SIL-rated systems, nuclear, water treatment) involve qualified functional safety and cybersecurity professionals.
-
----
-
 ## Contributing
 
 Corrections, improvements, and additions from practitioners are genuinely welcome.
