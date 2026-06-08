@@ -17,8 +17,8 @@ Manufacturers of PLCs, SCADA systems, and HMIs are preparing. They'll ship CRA-c
 The harder problem sits with the asset owners — the facilities running equipment installed in 2005, 2009, 2012. Equipment designed for 25-year lifespans, with no patch mechanism, no authentication, no encryption, running protocols that predate the assumption that these systems would ever touch a network connected to the outside world.
 Those devices aren't going anywhere. And they're now under pressure from:
 
-🇪🇺 CRA — Cyber Resilience Act (Dec 2027)
-🇪🇺 NIS2 — Already in force for operators of essential services
+🇪🇺 CRA: Cyber Resilience Act (Dec 2027)
+🇪🇺 NIS2: Already in force for operators of essential services
 🛡️ Cyber insurance requirements tightening
 🏢 Client and procurement security requirements increasing
 
@@ -28,4 +28,4 @@ No budget for full replacement
 No downtime window to execute it even if they had budget
 No clear methodology for how to approach it in phases
 
-This toolkit is for them — and for the engineers and consultants helping them.
+This toolkit is for them and for the engineers and consultants helping them.
