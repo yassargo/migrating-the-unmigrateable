@@ -1,4 +1,4 @@
-📚 **Migrating the Unmigrateable — Study Notes | [MtU #00]** A learning-in-public series on legacy ICS migration and CRA compliance
+📚 **Migrating the Unmigrateable - Study Notes | [MtU #00]** A learning-in-public series on legacy ICS migration and CRA compliance
 
 **There's a ticking clock in industrial facilities across Europe. And most people responsible for them are hoping someone else figures it out.**
 
