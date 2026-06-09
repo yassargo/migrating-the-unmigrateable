@@ -30,7 +30,6 @@ What I am is someone who spent years in IT support, application management, vuln
 
 **Everything the IT world learned the hard way about security over the last 20 years , OT is about to learn all at once, under regulatory pressure, with zero downtime tolerance.**
 
-👉 _[Your joke here — something about IT people discovering OT is basically IT from 2003 but with higher stakes if something breaks]_
 
 I couldn't find a single practical, honest resource explaining step by step how you actually migrate a legacy ICS environment without destroying your uptime, your budget, or your sanity.
 
@@ -40,12 +39,12 @@ Over the coming months I'll cover:
 
 - How to assess what you actually have _(spoiler: most plants don't fully know)_
 - How to phase a migration without touching your 99.9% uptime requirement
-- What CRA actually means for asset owners — not just manufacturers
+- What CRA actually means for asset owners, not just manufacturers
 - The templates and frameworks that make projects like this manageable
 
 I'll cite sources. I'll flag what I know versus what I'm still figuring out. No fake authority — just honest research made useful.
 
-If this is a problem you're living, managing, or consulting around — follow along.
+If this is a problem you're living, managing, or consulting around, then follow along.
 
 And to kick things off: **what's the biggest obstacle you hit when modernising legacy OT infrastructure comes up internally?**
 
